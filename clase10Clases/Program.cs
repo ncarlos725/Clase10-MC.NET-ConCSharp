@@ -10,29 +10,58 @@ namespace clase10Clases
     {
         static void Main(string[] args)
         {
-            List<Student> student = new List<Student>();
+            List<Person> persons = new List<Person>();
 
-            Student estudianteJorge = new Student("Jorge","Perez","Calle123");
-     
-            student.Add(estudianteJorge);
+            Student estudianteJorge = new Student("Jorge","Gonzalez");
+            persons.Add(estudianteJorge);
 
-            Student estudianteFrancis = new Student("Fran","Quiroga","SiempreViva");
-          
+
+            Teacher profesorJuanito = new Teacher("Juanito", "Melenas");
+            persons.Add(profesorJuanito);
+
 
             
 
-            PrintStudentNames(student);
+            //Student estudianteFrancis = new Student("Fran","Quiroga","SiempreViva");     
 
-           
+            //PrintStudentNames(student);
+
+
+
+            //List<Student> student = new List<Student>();
+
+            //Student estudianteJorge = new Student("Jorge","Perez","Calle123");
+
+            //student.Add(estudianteJorge);
+
+            //Student estudianteFrancis = new Student("Fran","Quiroga","SiempreViva");     
+
+            //PrintStudentNames(student);
+
+            PrintPersontNames(persons);
+
+
         }
 
         //funciones
-        private static void PrintStudentNames(List<Student> students) 
+
+
+        private static void PrintPersontNames(List<Person> persons)
         {
-            foreach (Student student in students)
+            foreach (Person person in persons)
             {
-                Console.WriteLine(student.Name);
+                Console.WriteLine(person.Name);
+                Console.WriteLine(person.Greeting());
             }
         }
+
+
+        //private static void PrintStudentNames(List<Student> students)
+        //{
+        //    foreach (Student student in students)
+        //    {
+        //        Console.WriteLine(student.Name);
+        //    }
+        //}
     }
 }

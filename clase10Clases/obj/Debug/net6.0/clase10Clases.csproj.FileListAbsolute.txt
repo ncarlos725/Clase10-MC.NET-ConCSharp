@@ -1,12 +1,12 @@
+C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.AssemblyInfoInputs.cache
+C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.AssemblyInfo.cs
+C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.csproj.CoreCompileInputs.cache
 C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\bin\Debug\net6.0\clase10Clases.exe
 C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\bin\Debug\net6.0\clase10Clases.deps.json
 C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\bin\Debug\net6.0\clase10Clases.runtimeconfig.json
 C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\bin\Debug\net6.0\clase10Clases.dll
 C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\bin\Debug\net6.0\clase10Clases.pdb
-C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.AssemblyInfoInputs.cache
-C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.AssemblyInfo.cs
-C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.csproj.CoreCompileInputs.cache
 C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.dll
 C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\refint\clase10Clases.dll
 C:\Users\Carlo\Documents\CN\Cursos\.Net\PracticaCurso\01-Aprende-A-Utilizar-UITableView\clase10Clases\clase10Clases\obj\Debug\net6.0\clase10Clases.pdb

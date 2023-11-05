@@ -6,60 +6,37 @@ using System.Threading.Tasks;
 
 namespace clase10Clases
 {
-    class Student
+    class Student : Person
     {
-        private static int Counter;
-
-        public int Id 
-        { 
-            get; private set; 
-        } 
-       public string Name
+        public Student(String name, string lastName) : base(name, lastName, "")
         {
-            get; private set;
+            this.Address = "PJe lanieri";
+
         }
 
-        public string LastName
+
+        //---------------------------
+        public void Enrollment()
         {
-            get; private set;
 
         }
-        
-        public string Address
+
+        public override string Greeting()
         {
-            get; private set;
-        }
-        // Ejemplo de como llamar un constructor en otro constructor
-        public Student(String name, string lastName) : this(name,lastName, "")
-        { 
+            return " Hola soy un Estudiante";
         }
 
-        // Constructor
-        public Student(string name, string lastName, string addres)
+        public override bool CanTeach
         {
-            if (string.IsNullOrEmpty(Name))
-            {
-                
-            }
-            if (string.IsNullOrEmpty(LastName)) 
-            {
-
-            }
-    
-
-            Counter++;
-            this.Id = Counter;
-
-            this.Name = name;
-            this.LastName = lastName;
-            this.Address = addres;
-        }
-        public void Matricular()
-        {
-            // hace algo
+            get { return false; }
         }
 
-    
-    }// cllas student
 
-}// namespace
+    }
+
+     
+}
+
+
+
+
